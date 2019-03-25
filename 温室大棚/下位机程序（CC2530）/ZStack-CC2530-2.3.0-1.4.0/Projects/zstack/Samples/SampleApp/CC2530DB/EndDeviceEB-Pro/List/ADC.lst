@@ -1,0 +1,486 @@
+###############################################################################
+#                                                                             #
+# IAR C/C++ Compiler V8.10.1.40194/W32 for 8051         16/Dec/2018  13:05:53 #
+# Copyright 2004-2011 IAR Systems AB.                                         #
+#                                                                             #
+#    Core               =  plain                                              #
+#    Code model         =  banked                                             #
+#    Data model         =  large                                              #
+#    Calling convention =  xdata reentrant                                    #
+#    Constant location  =  data_rom                                           #
+#    Dptr setup         =  1,16                                               #
+#    Source file        =  F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\So #
+#                          urce\ADC.c                                         #
+#    Command line       =  -f F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC #
+#                          2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp #
+#                          \CC2530DB\..\..\..\Tools\CC2530DB\f8wEndev.cfg     #
+#                          (-DCPU32MHZ -DROOT=__near_func -DBLINK_LEDS) -f    #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\Tools\CC2530DB\f8wConfig.cfg       #
+#                          (-DSECURE=0 -DZG_SECURE_DYNAMIC=0 -DREFLECTOR      #
+#                          -DDEFAULT_CHANLIST=0x00000800                      #
+#                          -DZDAPP_CONFIG_PAN_ID=0xFFF1                       #
+#                          -DNWK_START_DELAY=100 -DEXTENDED_JOINING_RANDOM_MA #
+#                          SK=0x007F -DBEACON_REQUEST_DELAY=100               #
+#                          -DBEACON_REQ_DELAY_MASK=0x00FF                     #
+#                          -DROUTE_EXPIRY_TIME=30 -DAPSC_ACK_WAIT_DURATION_PO #
+#                          LLED=3000 -DNWK_INDIRECT_MSG_TIMEOUT=7             #
+#                          -DMAX_RREQ_ENTRIES=8 -DAPSC_MAX_FRAME_RETRIES=3    #
+#                          -DNWK_MAX_DATA_RETRIES=2                           #
+#                          -DMAX_POLL_FAILURE_RETRIES=2 -DMAX_BCAST=9         #
+#                          -DAPS_MAX_GROUPS=16 -DMAX_RTG_ENTRIES=40           #
+#                          -DNWK_MAX_BINDING_ENTRIES=4                        #
+#                          -DMAX_BINDING_CLUSTER_IDS=4 "-DDEFAULT_KEY={0x01,  #
+#                          0x03, 0x05, 0x07, 0x09, 0x0B, 0x0D, 0x0F, 0x00,    #
+#                          0x02, 0x04, 0x06, 0x08, 0x0A, 0x0C, 0x0D}"         #
+#                          -DMAC_MAX_FRAME_SIZE=116 "-DCONST=const __code"    #
+#                          -DGENERIC=__generic -DRFD_RCVC_ALWAYS_ON=FALSE     #
+#                          -DPOLL_RATE=1000 -DQUEUED_POLL_RATE=100            #
+#                          -DRESPONSE_POLL_RATE=100) -DREJOIN_POLL_RATE=440   #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\So #
+#                          urce\ADC.c -D ZIGBEEPRO -D NWK_AUTO_POLL -D        #
+#                          ZTOOL_P1 -D xMT_TASK -D xMT_SYS_FUNC -D            #
+#                          xMT_ZDO_FUNC -D LCD_SUPPORTED=DEBUG -lC            #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\EndDeviceEB-Pro\List\ -lA                   #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\EndDeviceEB-Pro\List\ --diag_suppress       #
+#                          Pe001,Pa010 -o F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530 #
+#                          £©\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Sampl #
+#                          es\SampleApp\CC2530DB\EndDeviceEB-Pro\Obj\ -e      #
+#                          --debug --core=plain --dptr=16,1                   #
+#                          --data_model=large --code_model=banked             #
+#                          --calling_convention=xdata_reentrant               #
+#                          --place_constants=data_rom --nr_virtual_regs 16    #
+#                          -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC #
+#                          2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp #
+#                          \CC2530DB\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£ #
+#                          ©\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Sample #
+#                          s\SampleApp\CC2530DB\..\SOURCE\ -I                 #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\ZMAIN\TI2530DB\ -I                 #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\MT\ -I            #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\HAL\INCLUDE\ -I   #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\HAL\TARGET\CC2530 #
+#                          EB\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStac #
+#                          k-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Sampl #
+#                          eApp\CC2530DB\..\..\..\..\..\COMPONENTS\OSAL\MCU\C #
+#                          CSOC\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZSt #
+#                          ack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Sam #
+#                          pleApp\CC2530DB\..\..\..\..\..\COMPONENTS\OSAL\INC #
+#                          LUDE\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZSt #
+#                          ack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Sam #
+#                          pleApp\CC2530DB\..\..\..\..\..\COMPONENTS\STACK\AF #
+#                          \ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack- #
+#                          CC2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleA #
+#                          pp\CC2530DB\..\..\..\..\..\COMPONENTS\STACK\NWK\   #
+#                          -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC #
+#                          2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp #
+#                          \CC2530DB\..\..\..\..\..\COMPONENTS\STACK\SEC\ -I  #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\STACK\SAPI\ -I    #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\STACK\SYS\ -I     #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\STACK\ZDO\ -I     #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\ZMAC\F8W\ -I      #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\ZMAC\ -I          #
+#                          F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\..\..\..\..\..\COMPONENTS\SERVICES\SADDR\   #
+#                          -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC #
+#                          2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp #
+#                          \CC2530DB\..\..\..\..\..\COMPONENTS\SERVICES\SDATA #
+#                          \ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack- #
+#                          CC2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleA #
+#                          pp\CC2530DB\..\..\..\..\..\COMPONENTS\MAC\INCLUDE\ #
+#                           -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-C #
+#                          C2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleAp #
+#                          p\CC2530DB\..\..\..\..\..\COMPONENTS\MAC\HIGH_LEVE #
+#                          L\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack #
+#                          -CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Sample #
+#                          App\CC2530DB\..\..\..\..\..\COMPONENTS\MAC\LOW_LEV #
+#                          EL\srf04\ -I F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£© #
+#                          \ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples #
+#                          \SampleApp\CC2530DB\..\..\..\..\..\COMPONENTS\MAC\ #
+#                          LOW_LEVEL\srf04\SINGLE_CHIP\ -Ohz                  #
+#                          --require_prototypes                               #
+#    List file          =  F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\EndDeviceEB-Pro\List\ADC.lst                #
+#    Object file        =  F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC253 #
+#                          0-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\CC #
+#                          2530DB\EndDeviceEB-Pro\Obj\ADC.r51                 #
+#                                                                             #
+#                                                                             #
+###############################################################################
+
+F:\2019\Œ¬ “¥Û≈Ô\œ¬Œªª˙≥Ã–Ú£®CC2530£©\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\SampleApp\Source\ADC.c
+      1          #include "ADC.h"
+      2          #include<ioCC2530.h>
+
+   \                                 In  segment SFR_AN, at 0xb4
+   \   unsigned char volatile __sfr ADCCON1
+   \                     ADCCON1:
+   \   000000                DS 1
+
+   \                                 In  segment SFR_AN, at 0xb6
+   \   unsigned char volatile __sfr ADCCON3
+   \                     ADCCON3:
+   \   000000                DS 1
+
+   \                                 In  segment SFR_AN, at 0xba
+   \   unsigned char volatile __sfr ADCL
+   \                     ADCL:
+   \   000000                DS 1
+
+   \                                 In  segment SFR_AN, at 0xbb
+   \   unsigned char volatile __sfr ADCH
+   \                     ADCH:
+   \   000000                DS 1
+
+   \                                 In  segment SFR_AN, at 0xf2
+   \   unsigned char volatile __sfr ADCCFG
+   \                     ADCCFG:
+   \   000000                DS 1
+      3          static uint8 Delay_nus(uint16 i);
+      4          //P0.5
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+      5          float get5(void)
+   \                     get5:
+      6            {   
+   \   000000   74F0         MOV     A,#-0x10
+   \   000002   12....       LCALL   ?BANKED_ENTER_XDATA
+   \   000005                ; Saved register size: 16
+   \   000005                ; Auto size: 2
+   \   000005   74FE         MOV     A,#-0x2
+   \   000007   12....       LCALL   ?ALLOC_XSTACK8
+      7                  char temp7[2];
+      8                  float num7;
+      9                  unsigned int  adc7;
+     10                  ADCH &= 0X00;		//«ÂEOC±Í÷æ	
+   \   00000A   E5BB         MOV     A,0xbb
+   \   00000C   75BB00       MOV     0xbb,#0x0
+     11                   ADCL &= 0X00;
+   \   00000F   E5BA         MOV     A,0xba
+   \   000011   75BA00       MOV     0xba,#0x0
+     12                  ADCCFG |= 0X20;         //≈‰÷√Œ™∂Àø⁄0 ‰»Î
+   \   000014   43F220       ORL     0xf2,#0x20
+     13          	ADCCON3=0xb5;		//µ•¥Œ◊™ªª,≤ŒøºµÁ—πŒ™µÁ‘¥µÁ—π£¨∂‘P05Ω¯––≤…—˘,14Œª∑÷±Ê¬ 					
+   \   000017   75B6B5       MOV     0xb6,#-0x4b
+     14          	ADCCON1 = 0X30;		//Õ£÷πA/D
+   \   00001A   75B430       MOV     0xb4,#0x30
+     15          	ADCCON1 |= 0X40;	//∆Ù∂ØA/D  
+   \   00001D   43B440       ORL     0xb4,#0x40
+     16                  
+     17                //  Delay_nus(500); 
+     18                  while((!(ADCCON1 & 0x80))&&Delay_nus(200));
+   \                     ??get5_0:
+   \   000020   E5B4         MOV     A,0xb4
+   \   000022   A2E7         MOV     C,0xE0 /* A   */.7
+   \   000024   400A         JC      ??get5_1
+   \   000026                ; Setup parameters for call to function Delay_nus
+   \   000026   7AC8         MOV     R2,#-0x38
+   \   000028   7B00         MOV     R3,#0x0
+   \   00002A   12....       LCALL   ??Delay_nus?relay
+   \   00002D   E9           MOV     A,R1
+   \   00002E   70F0         JNZ     ??get5_0
+     19                  //Delay_nus(50); 
+     20                  ADCCFG &=~0X20; 
+   \                     ??get5_1:
+   \   000030   53F2DF       ANL     0xf2,#0xdf
+     21                  temp7[1] = ADCL;
+   \   000033   E5BA         MOV     A,0xba
+   \   000035   C0E0         PUSH    A
+   \   000037   7401         MOV     A,#0x1
+   \   000039   12....       LCALL   ?XSTACK_DISP0_8
+   \   00003C   D0E0         POP     A
+   \   00003E   12....       LCALL   ?Subroutine2 & 0xFFFF
+     22                  temp7[0] = ADCH;
+     23                  ADCCON1 = 0X30;	
+     24                  adc7 = (uint8)temp7[1];
+     25                  adc7 |= ( (uint8) temp7[0] )<<8;
+   \                     ??CrossCallReturnLabel_2:
+   \   000041   12....       LCALL   ?XSTACK_DISP0_8
+   \   000044   12....       LCALL   ?Subroutine1 & 0xFFFF
+     26                  if(adc7&0x8000)adc7 = 0;
+   \                     ??CrossCallReturnLabel_0:
+   \   000047   6004         JZ      ??get5_2
+   \   000049   88..         MOV     ?V0 + 0,R0
+   \   00004B   88..         MOV     ?V0 + 1,R0
+     27                  adc7>>=2;
+     28                  num7 = adc7*3.3/8096;
+     29                  return num7;           
+   \                     ??get5_2:
+   \   00004D                REQUIRE ?Subroutine0
+   \   00004D                REQUIRE ADCH
+   \   00004D                REQUIRE ADCL
+   \   00004D                REQUIRE ADCCFG
+   \   00004D                REQUIRE ADCCON3
+   \   00004D                REQUIRE ADCCON1
+   \   00004D                ; // Fall through to label ?Subroutine0
+     30            }
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+   \                     ?Subroutine0:
+   \   000000   7402         MOV     A,#0x2
+   \   000002   78..         MOV     R0,#?V0 + 0
+   \   000004   12....       LCALL   ?US_SHR
+   \   000007   F5..         MOV     ?V0 + 2,A
+   \   000009   F5..         MOV     ?V0 + 3,A
+   \   00000B   78..         MOV     R0,#?V0 + 0
+   \   00000D   12....       LCALL   ?UL_TO_FLT
+   \   000010   90....       MOV     DPTR,#__Constant_40533333
+   \   000013   78..         MOV     R0,#?V0 + 4
+   \   000015   12....       LCALL   ?L_MOV_X
+   \   000018   78..         MOV     R0,#?V0 + 0
+   \   00001A   79..         MOV     R1,#?V0 + 4
+   \   00001C   12....       LCALL   ?FLT_MUL
+   \   00001F   90....       MOV     DPTR,#__Constant_45fd0000
+   \   000022   78..         MOV     R0,#?V0 + 4
+   \   000024   12....       LCALL   ?L_MOV_X
+   \   000027   78..         MOV     R0,#?V0 + 0
+   \   000029   79..         MOV     R1,#?V0 + 4
+   \   00002B   12....       LCALL   ?FLT_DIV
+   \   00002E   AA..         MOV     R2,?V0 + 0
+   \   000030   AB..         MOV     R3,?V0 + 1
+   \   000032   AC..         MOV     R4,?V0 + 2
+   \   000034   AD..         MOV     R5,?V0 + 3
+   \   000036   7402         MOV     A,#0x2
+   \   000038   12....       LCALL   ?DEALLOC_XSTACK8
+   \   00003B   7F08         MOV     R7,#0x8
+   \   00003D   02....       LJMP    ?BANKED_LEAVE_XDATA
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+   \                     ?Subroutine2:
+   \   000000   F0           MOVX    @DPTR,A
+   \   000001   E5BB         MOV     A,0xbb
+   \   000003   85..82       MOV     DPL,?XSP + 0
+   \   000006   85..83       MOV     DPH,?XSP + 1
+   \   000009   F0           MOVX    @DPTR,A
+   \   00000A   75B430       MOV     0xb4,#0x30
+   \   00000D   7401         MOV     A,#0x1
+   \   00000F   22           RET
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+   \                     ?Subroutine1:
+   \   000000   E0           MOVX    A,@DPTR
+   \   000001   FA           MOV     R2,A
+   \   000002   85..82       MOV     DPL,?XSP + 0
+   \   000005   85..83       MOV     DPH,?XSP + 1
+   \   000008   E0           MOVX    A,@DPTR
+   \   000009   F8           MOV     R0,A
+   \   00000A   E4           CLR     A
+   \   00000B   C8           XCH     A,R0
+   \   00000C   F9           MOV     R1,A
+   \   00000D   EA           MOV     A,R2
+   \   00000E   F5..         MOV     ?V0 + 0,A
+   \   000010   E9           MOV     A,R1
+   \   000011   F5..         MOV     ?V0 + 1,A
+   \   000013   5480         ANL     A,#0x80
+   \   000015   22           RET
+     31          //P0.6
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+     32          float get6(void)
+   \                     get6:
+     33            {   
+   \   000000   74F0         MOV     A,#-0x10
+   \   000002   12....       LCALL   ?BANKED_ENTER_XDATA
+   \   000005                ; Saved register size: 16
+   \   000005                ; Auto size: 2
+   \   000005   74FE         MOV     A,#-0x2
+   \   000007   12....       LCALL   ?ALLOC_XSTACK8
+     34                  char temp4[2];
+     35                  float num4;
+     36                  unsigned int  adc4;
+     37                  ADCH &= 0X00;		//«ÂEOC±Í÷æ	
+   \   00000A   E5BB         MOV     A,0xbb
+   \   00000C   75BB00       MOV     0xbb,#0x0
+     38                  ADCL &= 0X00;
+   \   00000F   E5BA         MOV     A,0xba
+   \   000011   75BA00       MOV     0xba,#0x0
+     39                  ADCCFG |= 0X40;
+   \   000014   43F240       ORL     0xf2,#0x40
+     40          	ADCCON3=0xb6;		//µ•¥Œ◊™ªª,≤ŒøºµÁ—πŒ™µÁ‘¥µÁ—π£¨∂‘P06Ω¯––≤…—˘,14Œª∑÷±Ê¬ 					
+   \   000017   75B6B6       MOV     0xb6,#-0x4a
+     41          	ADCCON1 = 0X30;		//Õ£÷πA/D
+   \   00001A   75B430       MOV     0xb4,#0x30
+     42          	ADCCON1 |= 0X40;	//∆Ù∂ØA/D  
+   \   00001D   43B440       ORL     0xb4,#0x40
+     43                  
+     44                //  Delay_nus(500); 
+     45                  while((!(ADCCON1 & 0x80))&&Delay_nus(200));
+   \                     ??get6_0:
+   \   000020   E5B4         MOV     A,0xb4
+   \   000022   A2E7         MOV     C,0xE0 /* A   */.7
+   \   000024   400A         JC      ??get6_1
+   \   000026                ; Setup parameters for call to function Delay_nus
+   \   000026   7AC8         MOV     R2,#-0x38
+   \   000028   7B00         MOV     R3,#0x0
+   \   00002A   12....       LCALL   ??Delay_nus?relay
+   \   00002D   E9           MOV     A,R1
+   \   00002E   70F0         JNZ     ??get6_0
+     46                  //Delay_nus(50); 
+     47                  ADCCFG &=~0X40;
+   \                     ??get6_1:
+   \   000030   53F2BF       ANL     0xf2,#0xbf
+     48                  temp4[1] = ADCL;
+   \   000033   E5BA         MOV     A,0xba
+   \   000035   C0E0         PUSH    A
+   \   000037   7401         MOV     A,#0x1
+   \   000039   12....       LCALL   ?XSTACK_DISP0_8
+   \   00003C   D0E0         POP     A
+   \   00003E   12....       LCALL   ?Subroutine2 & 0xFFFF
+     49                  temp4[0] = ADCH;
+     50                  ADCCON1 = 0X30;	
+     51                  adc4 = (uint8)temp4[1];
+     52                  adc4 |= ( (uint8) temp4[0] )<<8;
+   \                     ??CrossCallReturnLabel_3:
+   \   000041   12....       LCALL   ?XSTACK_DISP0_8
+   \   000044   12....       LCALL   ?Subroutine1 & 0xFFFF
+     53                  if(adc4&0x8000)adc4 = 0;
+   \                     ??CrossCallReturnLabel_1:
+   \   000047   6004         JZ      ??get6_2
+   \   000049   88..         MOV     ?V0 + 0,R0
+   \   00004B   88..         MOV     ?V0 + 1,R0
+     54                  adc4>>=2;
+     55                  num4 = adc4*3.3/8096;
+     56                  return num4;           
+   \                     ??get6_2:
+   \   00004D   02....       LJMP    ?Subroutine0 & 0xFFFF
+   \   000050                REQUIRE ADCH
+   \   000050                REQUIRE ADCL
+   \   000050                REQUIRE ADCCFG
+   \   000050                REQUIRE ADCCON3
+   \   000050                REQUIRE ADCCON1
+     57            }
+     58          
+     59          
+
+   \                                 In  segment BANKED_CODE, align 1, keep-with-next
+     60          uint8 Delay_nus(uint16 i)
+   \                     Delay_nus:
+     61          {
+   \   000000                ; Saved register size: 0
+   \   000000                ; Auto size: 0
+   \   000000   8003         SJMP    ??Delay_nus_0
+     62             while(i--)
+     63             {
+     64                asm("NOP"); 
+   \                     ??Delay_nus_1:
+   \   000002   00           NOP
+     65                asm("NOP");
+   \   000003   00           NOP
+     66                asm("NOP");
+   \   000004   00           NOP
+     67             }
+   \                     ??Delay_nus_0:
+   \   000005   EA           MOV     A,R2
+   \   000006   F8           MOV     R0,A
+   \   000007   EB           MOV     A,R3
+   \   000008   F9           MOV     R1,A
+   \   000009   E8           MOV     A,R0
+   \   00000A   24FF         ADD     A,#-0x1
+   \   00000C   1A           DEC     R2
+   \   00000D   E9           MOV     A,R1
+   \   00000E   34FF         ADDC    A,#-0x1
+   \   000010   FB           MOV     R3,A
+   \   000011   E8           MOV     A,R0
+   \   000012   49           ORL     A,R1
+   \   000013   70ED         JNZ     ??Delay_nus_1
+     68             return 0;
+   \   000015   7900         MOV     R1,#0x0
+   \   000017   02....       LJMP    ?BRET
+     69          }
+
+   \                                 In  segment XDATA_ROM_C, align 1
+   \                     __Constant_40533333:
+   \   000000   33335340     DD 40533333H
+
+   \                                 In  segment XDATA_ROM_C, align 1
+   \                     __Constant_45fd0000:
+   \   000000   0000FD45     DD 45FD0000H
+
+   \                                 In  segment BANK_RELAYS, align 1
+   \                     ??get5?relay:
+   \   000000   12....       LCALL   ?BDISPATCH
+   \   000003   ......       DC24    get5
+
+   \                                 In  segment BANK_RELAYS, align 1
+   \                     ??get6?relay:
+   \   000000   12....       LCALL   ?BDISPATCH
+   \   000003   ......       DC24    get6
+
+   \                                 In  segment BANK_RELAYS, align 1
+   \                     ??Delay_nus?relay:
+   \   000000   12....       LCALL   ?BDISPATCH
+   \   000003   ......       DC24    Delay_nus
+     70                
+     71                    
+     72               
+
+   Maximum stack usage in bytes:
+
+     Function       ISTACK PSTACK XSTACK
+     --------       ------ ------ ------
+     Delay_nus          0      0     18
+     get5               1      0     18
+       -> Delay_nus     0      0     36
+     get6               1      0     18
+       -> Delay_nus     0      0     36
+
+
+   Segment part sizes:
+
+     Function/Label      Bytes
+     --------------      -----
+     ADCCON1                1
+     ADCCON3                1
+     ADCL                   1
+     ADCH                   1
+     ADCCFG                 1
+     get5                  77
+     ?Subroutine0          64
+     ?Subroutine2          16
+     ?Subroutine1          22
+     get6                  80
+     Delay_nus             26
+     __Constant_40533333    4
+     __Constant_45fd0000    4
+     ??get5?relay           6
+     ??get6?relay           6
+     ??Delay_nus?relay      6
+
+ 
+ 285 bytes in segment BANKED_CODE
+  18 bytes in segment BANK_RELAYS
+   5 bytes in segment SFR_AN
+   8 bytes in segment XDATA_ROM_C
+ 
+ 303 bytes of CODE  memory
+   0 bytes of CONST memory (+ 8 bytes shared)
+   0 bytes of DATA  memory (+ 5 bytes shared)
+
+Errors: none
+Warnings: none

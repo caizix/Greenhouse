@@ -1,0 +1,139 @@
+D:\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+D:\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+D:\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+D:\C#\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+D:\C#\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+G:\学习资料\C#\C#自编程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\代做毕业设计-zigbee-2016\张婉瑶-无锡太湖学院\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+C:\Users\czl\Desktop\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+C:\Users\czl\Desktop\新建文件夹\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+G:\学习资料\ZIgBee（开发板资料、PCB、自编程序）\毕业设计-zigbee\欧阳倩-云大\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\煤矿环境-史国鑫\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\上海电机学院\煤矿环境-史国鑫\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\周鹤\上位机最新程序（含系统时间）2\上位机最新程序（含系统时间）\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\江苏第二师范学院\陈静娴\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\毕设-未完成\凡锦玲-西南石油大学\上位机程序 (修改版)\Monitoring system\Monitoring System\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.exe
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\2019\雷宇钦-基于物联网技术的桃园种植监控系统\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.exe
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.pdb
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\2019\国创-1100\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.exe
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.pdb
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csprojResolveAssemblyReference.cache
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Form1.resources
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.login.resources
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring_System.Properties.Resources.resources
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\obj\x86\Debug\Monitoring System.csproj.GenerateResource.Cache
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.exe
+F:\2019\温室大棚\上位机程序 (c#)\Monitoring system\Monitoring System\bin\Debug\Monitoring System.pdb
